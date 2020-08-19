@@ -1,4 +1,4 @@
-from stack import Stack
+from ds1.stack.stack import Stack
 
 
 def is_parenthesis_balanced(parenthesis_string: str):

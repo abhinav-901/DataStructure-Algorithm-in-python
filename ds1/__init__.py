@@ -1,1 +1,1 @@
-from stack import stack
+from ds1 import stack

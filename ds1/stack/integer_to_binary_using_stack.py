@@ -1,4 +1,4 @@
-from stack import Stack
+from ds1.stack.stack import Stack
 
 
 def convert_int_to_binary(number: int):
